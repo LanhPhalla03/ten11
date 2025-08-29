@@ -651,6 +651,9 @@ body {
 #ui .love:nth-child(100) .love_vertical {
   animation-delay: -30000ms;
 }
+#ui .love:nth-child(100) .love_vertical {
+  animation-delay: -30000ms;
+}
 
 @keyframes horizontal {
   from {
